@@ -1,1 +1,1 @@
-# Pandas_Cheat_shet
+Numpy_cheet_sheet
